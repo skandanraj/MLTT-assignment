@@ -81,8 +81,3 @@ References:
 Kaggle
 Cluster Analysis 
 
-Author Information
-Author: Srinivas K
-Contact: shrinivashshrii@gmail.com
-linkedin:https://www.linkedin.com/in/srinivas-k-45h/
-Github:https://github.com/dashboard
